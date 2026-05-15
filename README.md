@@ -45,8 +45,8 @@ Passionate about building scalable backend systems, distributed architectures, a
 
 | Project | Stack | Description |
 |---|---|---|
-| **DeliverX** | Go, Kafka, Kubernetes, WebSocket | Distributed smart delivery platform using microservices architecture with real-time rider tracking and event-driven communication. |
-| **GrowthLoop AI** | Next.js, TypeScript, PostgreSQL, AI APIs | AI-powered social media automation platform for generating captions/images, scheduling posts, and integrating marketing workflows. |
+| **DeliverX** | Go, Flutter, Kafka, Kubernetes | Distributed smart delivery platform using microservices architecture with real-time rider tracking and event-driven communication. |
+| **GrowthLoop AI** | Next.js, NestJS, Supabase | AI-powered social media automation platform for generating captions/images, scheduling posts, and integrating marketing workflows. |
 | **JakBank** | Go, PostgreSQL, Docker, Kubernetes | Digital banking backend implementing ACID transactions, authentication systems, and GitOps-style deployment workflows. |
 
 ---
