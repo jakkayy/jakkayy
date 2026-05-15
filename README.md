@@ -1,3 +1,21 @@
+# Hi, I'm Jakkaphan (Nae) 👋
+
+### Backend-focused Full-Stack Engineer | AI Automation | Software Engineering Student @ Kasetsart University
+
+Passionate about building scalable backend systems, distributed architectures, and AI-powered automation platforms.
+
+---
+
+## ⚙️ Engineering Philosophy
+
+- **Systems Thinker:** I specialize in distributed architectures — from microservice design (Kafka, Kubernetes) to real-time systems (WebSocket, Redis) — building for scale from the ground up.
+- **AI-First Builder:** I design automation platforms that embed AI APIs into real production workflows, turning manual processes into intelligent pipelines.
+- **Ship-Ready Mindset:** I write production-grade code with proper CI/CD, GitOps-style deployments, and containerized infrastructure from day one.
+
+---
+
+## 🛠 Tech Stack
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -5,8 +23,48 @@
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 💼 Professional Experience
+
+| Role | Company | Engineering Impact |
+|---|---|---|
+| **Software Engineer** | **Axis Solution** | **Full-Stack Development:** Built web applications using **Next.js, TypeScript, and Supabase**. Developed backend APIs, database systems, and workflow automations with **n8n**. Designed scalable architectures, integrated third-party APIs, and worked across frontend, backend, infrastructure, and deployment pipelines. |
+
+---
+
+## 🔧 Technical Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| **DeliverX** | Go, Kafka, Kubernetes, PostgreSQL, Redis, Flutter, WebSocket | Distributed smart delivery platform using microservices architecture with real-time rider tracking and event-driven communication. |
+| **GrowthLoop AI** | Next.js, TypeScript, Redis, PostgreSQL, LINE API, Meta API, AI APIs | AI-powered social media automation platform for generating captions/images, scheduling posts, and integrating marketing workflows. |
+| **WEKU** | Go, PostgreSQL, REST API | University platform backend developed for Kasetsart University students across multiple campuses. |
+| **JakBank** | Go, TypeScript, PostgreSQL, Redis, Docker, Kubernetes | Digital banking backend implementing ACID transactions, authentication systems, and GitOps-style deployment workflows. |
+| **KU2hand** | Next.js, TypeScript, PostgreSQL | Second-hand marketplace platform designed for Kasetsart University students. |
+
+---
+
+## 🎓 Education
+
+**Kasetsart University**
+
+- Bachelor of Engineering — Software Engineering
+
+---
+
+## 🤝 Connect
+
+- **Email:** niti2042547@gmail.com
+
+---
+
+*"Build systems that scale, automate what slows you down, and ship what matters."*
