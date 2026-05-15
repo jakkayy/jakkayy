@@ -1,6 +1,6 @@
 # Hi, I'm Jakkaphan (Nae) 👋
 
-### Backend-focused Full-Stack Engineer | AI Automation | Software Engineering Student @ Kasetsart University
+### Backend-focused Full-Stack Engineer | AI Automation | Software Engineer
 
 Passionate about building scalable backend systems, distributed architectures, and AI-powered automation platforms.
 
@@ -37,7 +37,7 @@ Passionate about building scalable backend systems, distributed architectures, a
 
 | Role | Company | Engineering Impact |
 |---|---|---|
-| **Software Engineer** | **Axis Solution** | **Full-Stack Development:** Built web applications using **Next.js, TypeScript, and Supabase**. Developed backend APIs, database systems, and workflow automations with **n8n**. Designed scalable architectures, integrated third-party APIs, and worked across frontend, backend, infrastructure, and deployment pipelines. |
+| **Software Engineer** | **Axis Solution** | **Full-Stack Development:** Built web applications using **Next.js, NestJS, and Supabase**. Developed backend APIs, database systems, and workflow automations with **n8n**. Designed scalable architectures, integrated third-party APIs, and worked across frontend, backend, infrastructure, and deployment pipelines. |
 
 ---
 
@@ -45,11 +45,9 @@ Passionate about building scalable backend systems, distributed architectures, a
 
 | Project | Stack | Description |
 |---|---|---|
-| **DeliverX** | Go, Kafka, Kubernetes, PostgreSQL, Redis, Flutter, WebSocket | Distributed smart delivery platform using microservices architecture with real-time rider tracking and event-driven communication. |
-| **GrowthLoop AI** | Next.js, TypeScript, Redis, PostgreSQL, LINE API, Meta API, AI APIs | AI-powered social media automation platform for generating captions/images, scheduling posts, and integrating marketing workflows. |
-| **WEKU** | Go, PostgreSQL, REST API | University platform backend developed for Kasetsart University students across multiple campuses. |
-| **JakBank** | Go, TypeScript, PostgreSQL, Redis, Docker, Kubernetes | Digital banking backend implementing ACID transactions, authentication systems, and GitOps-style deployment workflows. |
-| **KU2hand** | Next.js, TypeScript, PostgreSQL | Second-hand marketplace platform designed for Kasetsart University students. |
+| **DeliverX** | Go, Kafka, Kubernetes, WebSocket | Distributed smart delivery platform using microservices architecture with real-time rider tracking and event-driven communication. |
+| **GrowthLoop AI** | Next.js, TypeScript, PostgreSQL, AI APIs | AI-powered social media automation platform for generating captions/images, scheduling posts, and integrating marketing workflows. |
+| **JakBank** | Go, PostgreSQL, Docker, Kubernetes | Digital banking backend implementing ACID transactions, authentication systems, and GitOps-style deployment workflows. |
 
 ---
 
@@ -57,14 +55,11 @@ Passionate about building scalable backend systems, distributed architectures, a
 
 **Kasetsart University**
 
-- Bachelor of Engineering — Software Engineering
+- Bachelor of Computer Engineering
+- **Focus**: Software Engineering, AI Automation
 
 ---
 
 ## 🤝 Connect
 
 - **Email:** niti2042547@gmail.com
-
----
-
-*"Build systems that scale, automate what slows you down, and ship what matters."*
