@@ -42,16 +42,6 @@ Passionate about building scalable backend systems, distributed architectures, a
 
 ---
 
-## Projects
-
-| Project | Stack | Description |
-|---|---|---|
-| **DeliverX** | Go, Flutter, webSocket | Distributed smart delivery platform using microservices architecture with real-time rider tracking and event-driven communication. |
-| **GrowthLoop AI** | NestJS, Next.js, Supabase | AI-powered social media automation platform for generating captions/images, scheduling posts, and integrating marketing workflows. |
-| **JakBank** | Go, Next.js, Docker, Kubernetes | Digital banking backend implementing ACID transactions, authentication systems, and GitOps-style deployment workflows. |
-
----
-
 ## Education
 
 **Kasetsart University**
