@@ -34,7 +34,7 @@ Passionate about building scalable backend systems, distributed architectures, a
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
 | Role | Company | Engineering Impact |
 |---|---|---|
@@ -42,7 +42,7 @@ Passionate about building scalable backend systems, distributed architectures, a
 
 ---
 
-## 🔧 Technical Projects
+## 🔧 Projects
 
 | Project | Stack | Description |
 |---|---|---|
