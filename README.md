@@ -6,7 +6,7 @@ Passionate about building scalable backend systems, distributed architectures, a
 
 ---
 
-## ⚙️ Engineering Philosophy
+## Engineering Philosophy
 
 - **Systems Thinker:** I specialize in distributed architectures — from microservice design (Kafka, Kubernetes) to real-time systems (WebSocket, Redis) — building for scale from the ground up.
 - **AI-First Builder:** I design automation platforms that embed AI APIs into real production workflows, turning manual processes into intelligent pipelines.
@@ -14,7 +14,7 @@ Passionate about building scalable backend systems, distributed architectures, a
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -34,7 +34,7 @@ Passionate about building scalable backend systems, distributed architectures, a
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Role | Company | Engineering Impact |
 |---|---|---|
@@ -42,7 +42,7 @@ Passionate about building scalable backend systems, distributed architectures, a
 
 ---
 
-## 🔧 Projects
+## Projects
 
 | Project | Stack | Description |
 |---|---|---|
@@ -52,7 +52,7 @@ Passionate about building scalable backend systems, distributed architectures, a
 
 ---
 
-## 🎓 Education
+## Education
 
 **Kasetsart University**
 
@@ -61,6 +61,6 @@ Passionate about building scalable backend systems, distributed architectures, a
 
 ---
 
-## 🤝 Connect
+## Connect
 
 - **Email:** niti2042547@gmail.com
