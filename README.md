@@ -6,14 +6,6 @@ Passionate about building scalable backend systems, distributed architectures, a
 
 ---
 
-## Engineering Philosophy
-
-- **Systems Thinker:** I specialize in distributed architectures — from microservice design (Kafka, Kubernetes) to real-time systems (WebSocket, Redis) — building for scale from the ground up.
-- **AI-First Builder:** I design automation platforms that embed AI APIs into real production workflows, turning manual processes into intelligent pipelines.
-- **Ship-Ready Mindset:** I write production-grade code with proper CI/CD, GitOps-style deployments, and containerized infrastructure from day one.
-
----
-
 ## Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
