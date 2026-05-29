@@ -1,10 +1,4 @@
-# Hi, I'm Jakkaphan (Nae) 👋
-
 ### Backend-focused Full-Stack Engineer | AI Automation | Software Engineer
-
-Passionate about building scalable backend systems, distributed architectures, and AI-powered automation platforms.
-
----
 
 ## Tech Stack
 
@@ -23,14 +17,6 @@ Passionate about building scalable backend systems, distributed architectures, a
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## Experience
-
-| Role | Company | Engineering Impact |
-|---|---|---|
-| **Software Engineer** | **Axis Solution** | **Full-Stack Development:** Built web applications using **Next.js, NestJS, and Supabase**. Developed backend APIs, database systems, and workflow automations with **n8n**. Designed scalable architectures, integrated third-party APIs, and worked across frontend, backend, infrastructure, and deployment pipelines. |
 
 ---
 
