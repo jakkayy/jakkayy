@@ -1,4 +1,4 @@
-### Backend-focused Full-Stack Engineer | AI Automation | Software Engineer
+### Backend-focused Full-Stack Engineer | AI Automation
 
 ## Tech Stack
 
