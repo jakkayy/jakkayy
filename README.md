@@ -1,3 +1,5 @@
+# Hi, I'm Nae 👋
+
 ### Backend-focused Full-Stack Engineer | AI Automation
 
 Building scalable backend systems, full-stack web apps, and AI-powered automation pipelines. Passionate about clean architecture and turning complex workflows into reliable software.
