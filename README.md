@@ -1,6 +1,6 @@
 # Hi, I'm Nae 👋
 
-### Backend-focused Full-Stack Engineer | AI Automation
+### Backend-focused Full-Stack Developer | AI Automation
 ---
 
 ## Tech Stack
