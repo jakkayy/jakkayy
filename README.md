@@ -68,5 +68,4 @@
 
 ## Connect
 
-- **Portfolio:** [portfolio-jakkayy.vercel.app](https://portfolio-jakkayy.vercel.app)
 - **Email:** niti2042547@gmail.com
