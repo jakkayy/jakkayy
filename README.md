@@ -1,9 +1,9 @@
 # Hi, I'm Nae 👋
-🔭 I’m currently working on: Computer Engineering @ Kasetsart University<br>👯 I’m looking to collaborate on: Software Engineering & AI Automation <br>🌱 I’m currently learning: Getting my hands dirty with Infrastructure & DevOps basics<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakkaphan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jakkaphan.si.dev@gmail.com) 
+- 🔭 I’m currently working on: Computer Engineering @ Kasetsart University<br>
+- 👯 I’m looking to collaborate on: Software Engineering & AI Automation <br>
+- 🌱 I’m currently learning: Getting my hands dirty with Infrastructure & DevOps basics<br>
+- 📫 How to reach me jakkaphan.si.dev@gmail.com
+- 
 
 # 💻 Tech Stack:
 **Languages**
