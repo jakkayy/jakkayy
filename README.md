@@ -3,7 +3,6 @@
 - 👯 I’m looking to collaborate on: Software Engineering & AI Automation <br>
 - 🌱 I’m currently learning: Getting my hands dirty with Infrastructure & DevOps basics<br>
 - 📫 How to reach me jakkaphan.si.dev@gmail.com
-- 
 
 # 💻 Tech Stack:
 **Languages**
