@@ -1,10 +1,11 @@
 # Hi, I'm Nae 👋
+🔭 I’m currently working on: Computer Engineering @ Kasetsart University<br>👯 I’m looking to collaborate on: Software Engineering & AI Automation <br>🌱 I’m currently learning: Getting my hands dirty with Infrastructure & DevOps basics<br>
 
-### Backend-focused Full-Stack Developer | AI Automation
----
 
-## Tech Stack
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakkaphan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jakkaphan.si.dev@gmail.com) 
 
+# 💻 Tech Stack:
 **Languages**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -55,17 +56,13 @@
 ![Telegram API](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Meta API](https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
----
 
-## Education
-
-**Kasetsart University**
-
-- Bachelor of Computer Engineering
-- **Focus**: Software Engineering, AI Automation
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=jakkayy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=jakkayy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jakkayy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=jakkayy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Connect
-
-- **Email:** niti2042547@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
