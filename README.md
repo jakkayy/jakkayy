@@ -9,6 +9,9 @@
 **[ทัวร์ไฟไหม้](https://tour-firemai.vercel.app)** — Thai last-minute tour aggregator  
 Auto-scrapes discounted tours every 6 hours · Next.js · Supabase · Python + Playwright · GitHub Actions
 
+
+**[ตังค์เหลือ](https://tang-luer.vercel.app)** — Personal finance tracker — log income & expenses, analyze spending, set budgets
+
 ---
 
 # 💻 Tech Stack:
