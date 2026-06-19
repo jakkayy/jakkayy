@@ -4,6 +4,13 @@
 - 🌱 I’m currently learning: Getting my hands dirty with Infrastructure & DevOps basics<br>
 - 📫 How to reach me jakkaphan.si.dev@gmail.com
 
+# 🚀 Projects
+
+**[ทัวร์ไฟไหม้](https://tour-firemai.vercel.app)** — Thai last-minute tour aggregator  
+Auto-scrapes discounted tours every 6 hours · Next.js · Supabase · Python + Playwright · GitHub Actions
+
+---
+
 # 💻 Tech Stack:
 **Languages**
 
