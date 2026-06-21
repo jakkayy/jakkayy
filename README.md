@@ -3,7 +3,8 @@
 - 👯 I’m looking to collaborate on: Software Engineering & AI Automation <br>
 - 🌱 I’m currently learning: Getting my hands dirty with Infrastructure & DevOps basics<br>
 - 📫 How to reach me jakkaphan.si.dev@gmail.com
-- LinkedIn: https://www.linkedin.com/in/jakkaphan/
+- 💼 LinkedIn: https://www.linkedin.com/in/jakkaphan
+- 🌐 Portfolio: https://portfolio-jakkayy.vercel.app
 
 # 🚀 Projects
 
