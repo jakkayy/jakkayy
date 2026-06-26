@@ -8,7 +8,7 @@
 
 # 🚀 Projects
 
-**[ทัวร์ไฟไหม้](https://tour-firemai.vercel.app)** — Thai last-minute tour aggregator. Auto-scrapes discounted tours from TravelZeed & ThaiFly every 6 hours via Python + Playwright + GitHub Actions cron. Built with Next.js + Supabase, hosted on Vercel.
+**[Tour-FaiMai](https://tour-firemai.vercel.app)** — Thai last-minute tour aggregator. Auto-scrapes discounted tours from TravelZeed & ThaiFly every 6 hours via Python + Playwright + GitHub Actions cron. Built with Next.js + Supabase, hosted on Vercel.
 
 **[DuangDee](https://duangdee.duckdns.org)** — Online fortune telling booking platform. Browse tellers, book sessions, and pay via PromptPay QR. Full-stack with Next.js + NestJS + PostgreSQL, deployed on AWS EC2 via GitLab CI/CD with HTTPS.
 
