@@ -8,11 +8,11 @@
 
 # 🚀 Projects
 
-**[Tour-FaiMai](https://tour-firemai.vercel.app)** — Thai last-minute tour aggregator. Auto-scrapes discounted tours from TravelZeed & ThaiFly every 6 hours via Python + Playwright + GitHub Actions cron. Built with Next.js + Supabase, hosted on Vercel.
+**Tour-FaiMai** — Thai last-minute tour aggregator. Auto-scrapes discounted tours from TravelZeed & ThaiFly every 6 hours via Python + Playwright + GitHub Actions cron. Built with Next.js + Supabase, hosted on Vercel. [Demo](https://tour-firemai.vercel.app)
 
-**[DuangDee](https://duangdee.duckdns.org)** — Online fortune telling booking platform. Browse tellers, book sessions, and pay via PromptPay QR. Full-stack with Next.js + NestJS + PostgreSQL, deployed on AWS EC2 via GitLab CI/CD with HTTPS.
+**DuangDee** — Online fortune telling booking platform. Browse tellers, book sessions, and pay via PromptPay QR. Full-stack with Next.js + NestJS + PostgreSQL, deployed on AWS EC2 via GitLab CI/CD with HTTPS. [Demo](https://duangdee.duckdns.org)
 
-**[TangLuer](https://tang-luer.vercel.app)** — Personal finance tracker with AI. Log income/expenses via natural language input, visualize spending trends, and get AI-powered insights.
+**TangLuer** — Personal finance tracker with AI. Log income/expenses via natural language input, visualize spending trends, and get AI-powered insights. [Demo](https://tang-luer.vercel.app)
 
 
 ---
