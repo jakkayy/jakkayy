@@ -1,23 +1,40 @@
 # Hi, I'm Nae 👋
-- 🔭 I’m currently working on: Computer Engineering @ Kasetsart University<br>
-- 👯 I’m looking to collaborate on: Software Engineering & AI Automation <br>
-- 🌱 I’m currently learning: Getting my hands dirty with Infrastructure & DevOps basics<br>
-- 📫 How to reach me jakkaphan.si.dev@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/jakkaphan
-- 🌐 Portfolio: https://portfolio-jakkayy.vercel.app
 
-# 🚀 Projects
+I'm the kind of engineer who builds first and asks questions later.
 
-**Tour-FaiMai** — Thai last-minute tour aggregator. Auto-scrapes discounted tours from TravelZeed & ThaiFly every 6 hours via Python + Playwright + GitHub Actions cron. Built with Next.js + Supabase, hosted on Vercel. [Demo](https://tour-firemai.vercel.app)
+Backend systems, AI automation pipelines, and the infra to keep them running — I've built and shipped all three, solo, while studying Computer Engineering at Kasetsart University.
 
-**DuangDee** — Online fortune telling booking platform. Browse tellers, book sessions, and pay via PromptPay QR. Full-stack with Next.js + NestJS + PostgreSQL, deployed on AWS EC2 via GitLab CI/CD with HTTPS. [Demo](https://duangdee.duckdns.org)
-
-**TangLuer** — Personal finance tracker with AI. Log income/expenses via natural language input, visualize spending trends, and get AI-powered insights. [Demo](https://tang-luer.vercel.app)
-
+📫 jakkaphan.si.dev@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jakkaphan) &nbsp;·&nbsp; [Portfolio](https://portfolio-jakkayy.vercel.app)
 
 ---
 
-# 💻 Tech Stack:
+## 🏆 Highlights
+
+- 🥇 **1st Place** — KU Hackathon, Kasetsart University
+- 🚀 **Startup Thailand League 2026** — Regional Round
+
+---
+
+## 🚀 Projects
+
+> Every project here was designed, built, and deployed by me — solo.
+
+**Tour-FaiMai** — Thai last-minute tour aggregator · [Live →](https://tour-firemai.vercel.app)  
+Tour deals disappear fast and no one aggregates them. So I built a scheduled pipeline that scrapes every package from TravelZeed & ThaiFly every 6 hours — automatically, no manual updates needed.  
+`Next.js` · `Supabase` · `Python` · `Playwright` · `GitHub Actions` · `Vercel`
+
+**DuangDee** — Online fortune-telling booking platform · [Live →](https://duangdee.duckdns.org)  
+Browse fortune tellers, book sessions, and pay via PromptPay QR — all in one flow. Built the full stack, wired up the CI/CD pipeline, and deployed on AWS EC2 with HTTPS.  
+`Next.js` · `NestJS` · `PostgreSQL` · `AWS EC2` · `GitLab CI/CD`
+
+**TangLuer** — AI-powered personal finance tracker · [Live →](https://tang-luer.vercel.app)  
+No spreadsheets, no manual categories. Log income and expenses in plain language, visualize spending trends, and get AI-generated insights on top.  
+`Next.js` · `LangChain` · `PostgreSQL` · `Vercel`
+
+---
+
+## 💻 Tech Stack
+
 **Languages**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -27,7 +44,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Framework**
+**Frameworks**
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -64,9 +81,11 @@
 ![Telegram API](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Meta API](https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=jakkayy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jakkayy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=jakkayy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jakkayy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
