@@ -1,35 +1,9 @@
 # Hi, I'm Nae 👋
 
-I'm the kind of engineer who builds first and asks questions later.
+Computer Engineering Student @ Kasetsart University
+Full-stack Developer · AI Automation · Devops Engineer
 
-Backend systems, AI automation pipelines, and the infra to keep them running — I've built and shipped all three, solo, while studying Computer Engineering at Kasetsart University.
-
-📫 jakkaphan.si.dev@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jakkaphan) &nbsp;·&nbsp; [Portfolio](https://portfolio-jakkayy.vercel.app)
-
----
-
-## 🏆 Competitions & Awards
-
-- 🥇 **1st Place** — KU Hackathon, Kasetsart University
-- 🚀 **Startup Thailand League 2026** — Regional Round
-
----
-
-## 🚀 Projects
-
-> Every project here was designed, built, and deployed by me — solo.
-
-**Tour-FaiMai** — Thai last-minute tour aggregator · [Demo](https://tour-firemai.vercel.app)  
-Tour deals disappear fast and no one aggregates them. So I built a scheduled pipeline that scrapes every package from TravelZeed & ThaiFly every 6 hours — automatically, no manual updates needed.  
-`Next.js` · `Supabase` · `Python` · `Playwright` · `GitHub Actions` · `Vercel`
-
-**DuangDee** — Online fortune-telling booking platform · [Demo](https://duangdee.duckdns.org)  
-Browse fortune tellers, book sessions, and pay via PromptPay QR — all in one flow. Built the full stack, wired up the CI/CD pipeline, and deployed on AWS EC2 with HTTPS.  
-`Next.js` · `NestJS` · `PostgreSQL` · `AWS EC2` · `GitLab CI/CD`
-
-**TangLuer** — AI-powered personal finance tracker · [Demo](https://tang-luer.vercel.app)  
-No spreadsheets, no manual categories. Log income and expenses in plain language, visualize spending trends, and get AI-generated insights on top.  
-`Next.js` · `PostgreSQL` · `Vercel`
+jakkaphan.si.dev@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jakkaphan) &nbsp;·&nbsp; [Portfolio](https://portfolio-jakkayy.vercel.app)S
 
 ---
 
@@ -37,7 +11,7 @@ No spreadsheets, no manual categories. Log income and expenses in plain language
 
 **Languages**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?SSstyle=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -83,9 +57,29 @@ No spreadsheets, no manual categories. Log income and expenses in plain language
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Competitions & Awards
 
-![](https://github-readme-stats.vercel.app/api?username=jakkayy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jakkayy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🥇 **1st Place** — KU Hackathon, Kasetsart University
+- 🚀 **Startup Thailand League 2026** — Regional Round
 
 ---
+
+## 🚀 Projects
+
+> Every project here was designed, built, and deployed by me — solo.
+
+**Tour-FaiMai** — Thai last-minute tour aggregator · [Demo](https://tour-firemai.vercel.app)  
+Tour deals disappear fast and no one aggregates them. So I built a scheduled pipeline that scrapes every package from TravelZeed & ThaiFly every 6 hours — automatically, no manual updates needed.  
+`Next.js` · `Supabase` · `Python` · `Playwright` · `GitHub Actions` · `Vercel`
+
+**DuangDee** — Online fortune-telling booking platform · [Demo](https://duangdee.duckdns.org)  
+Browse fortune tellers, book sessions, and pay via PromptPay QR — all in one flow. Built the full stack, wired up the CI/CD pipeline, and deployed on AWS EC2 with HTTPS.  
+`Next.js` · `NestJS` · `PostgreSQL` · `AWS EC2` · `GitLab CI/CD`
+
+**TangLuer** — AI-powered personal finance tracker · [Demo](https://tang-luer.vercel.app)  
+No spreadsheets, no manual categories. Log income and expenses in plain language, visualize spending trends, and get AI-generated insights on top.  
+`Next.js` · `PostgreSQL` · `Vercel`
+
+---
+
+
