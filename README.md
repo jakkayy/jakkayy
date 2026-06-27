@@ -3,7 +3,7 @@
 Computer Engineering Student @ Kasetsart University
 Full-stack Developer · AI Automation · Devops Engineer
 
-jakkaphan.si.dev@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jakkaphan) &nbsp;·&nbsp; [Portfolio](https://portfolio-jakkayy.vercel.app)S
+jakkaphan.si.dev@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jakkaphan) &nbsp;·&nbsp; [Portfolio](https://portfolio-jakkayy.vercel.app)
 
 ---
 
