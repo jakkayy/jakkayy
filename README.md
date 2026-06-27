@@ -1,4 +1,4 @@
-# Hi, I'm Nae 👋
+# Hi, I'm Nae 
 
 Computer Engineering Student @ Kasetsart University  
 Full-stack Developer · AI Automation · Devops Engineer
@@ -7,7 +7,7 @@ jakkaphan.si.dev@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -56,14 +56,14 @@ jakkaphan.si.dev@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in
 
 ---
 
-## 🏆 Competitions & Awards
+## Competitions & Awards
 
 - 🥇 **1st Place** — KU Hackathon, Kasetsart University
 - 🚀 **Startup Thailand League 2026** — Regional Round
 
 ---
 
-## 🚀 Projects
+## Projects
 
 > Every project here was designed, built, and deployed by me — solo.
 
@@ -78,7 +78,5 @@ Browse fortune tellers, book sessions, and pay via PromptPay QR — all in one f
 **TangLuer** — AI-powered personal finance tracker · [Demo](https://tang-luer.vercel.app)  
 No spreadsheets, no manual categories. Log income and expenses in plain language, visualize spending trends, and get AI-generated insights on top.  
 `Next.js` · `PostgreSQL` · `Vercel`
-
----
 
 
