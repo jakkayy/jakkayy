@@ -8,7 +8,7 @@ Backend systems, AI automation pipelines, and the infra to keep them running —
 
 ---
 
-## 🏆 Highlights
+## 🏆 Competitions & Awards
 
 - 🥇 **1st Place** — KU Hackathon, Kasetsart University
 - 🚀 **Startup Thailand League 2026** — Regional Round
@@ -19,17 +19,17 @@ Backend systems, AI automation pipelines, and the infra to keep them running —
 
 > Every project here was designed, built, and deployed by me — solo.
 
-**Tour-FaiMai** — Thai last-minute tour aggregator · [Live →](https://tour-firemai.vercel.app)  
+**Tour-FaiMai** — Thai last-minute tour aggregator · [Demo](https://tour-firemai.vercel.app)  
 Tour deals disappear fast and no one aggregates them. So I built a scheduled pipeline that scrapes every package from TravelZeed & ThaiFly every 6 hours — automatically, no manual updates needed.  
 `Next.js` · `Supabase` · `Python` · `Playwright` · `GitHub Actions` · `Vercel`
 
-**DuangDee** — Online fortune-telling booking platform · [Live →](https://duangdee.duckdns.org)  
+**DuangDee** — Online fortune-telling booking platform · [Demo](https://duangdee.duckdns.org)  
 Browse fortune tellers, book sessions, and pay via PromptPay QR — all in one flow. Built the full stack, wired up the CI/CD pipeline, and deployed on AWS EC2 with HTTPS.  
 `Next.js` · `NestJS` · `PostgreSQL` · `AWS EC2` · `GitLab CI/CD`
 
-**TangLuer** — AI-powered personal finance tracker · [Live →](https://tang-luer.vercel.app)  
+**TangLuer** — AI-powered personal finance tracker · [Demo](https://tang-luer.vercel.app)  
 No spreadsheets, no manual categories. Log income and expenses in plain language, visualize spending trends, and get AI-generated insights on top.  
-`Next.js` · `LangChain` · `PostgreSQL` · `Vercel`
+`Next.js` · `PostgreSQL` · `Vercel`
 
 ---
 
