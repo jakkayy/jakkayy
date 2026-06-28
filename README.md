@@ -58,8 +58,8 @@ jakkaphan.si.dev@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in
 
 ## Competitions & Awards
 
-- 🥇 **1st Place** — KU Hackathon, Kasetsart University
-- 🚀 **Startup Thailand League 2026** — Regional Round
+- **1st Place** — KU Hackathon, Kasetsart University
+- **Startup Thailand League 2026** — Regional Round
 
 ---
 
