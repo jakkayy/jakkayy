@@ -1,7 +1,7 @@
 # Hi, I'm Nae 
 
 Computer Engineering Student @ Kasetsart University  
-Full-stack Developer · AI Automation & Agentic AI · Devops Engineer
+Full-stack Developer · AI Automation · Data Engineer
 
 jakkaphan.si.dev@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jakkaphan) &nbsp;·&nbsp; [Portfolio](https://portfolio-jakkayy.vercel.app)
 
