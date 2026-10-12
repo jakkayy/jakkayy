@@ -59,7 +59,7 @@
 
 ---
 
-## Featured Projects
+## Projects
 
 | Project | Stack |
 | --- | --- |
