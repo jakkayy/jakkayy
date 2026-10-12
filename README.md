@@ -1,9 +1,12 @@
-# Hi, I'm Nae 
+# Hi, I'm Nae
 
-Computer Engineering Student @ Kasetsart University  
-Full-stack Developer · AI Automation · Devops Engineer
+Full-stack · DevOps & Platform · AI Automation
 
 jakkaphan.si.dev@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jakkaphan) &nbsp;·&nbsp; [Portfolio](https://portfolio-jakkayy.vercel.app)
+
+- Computer Engineering student @ **Kasetsart University**, Bangkok (2024 – 2028)
+- Software Engineer (Full-Stack & AI) @ **AXIS Solution** — building AI marketing web platforms that solve business problems, mainly on the backend, plus automation workflows, RAG pipelines, and AI chatbots
+- Backend Developer @ **Kasetsart University** — built Go backend services for a mobile app and CMS, a token-exchange proxy for an API gateway, and integrated the gateway with the backend to serve internal data
 
 ---
 
@@ -13,9 +16,8 @@ jakkaphan.si.dev@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Frameworks**
 
@@ -25,32 +27,41 @@ jakkaphan.si.dev@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**Databases**
+**Databases & Messaging**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 **DevOps & Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Automation & AI**
 
-![n8n](https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LINE API](https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white)
-![Telegram API](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Meta API](https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+---
+
+## Featured Projects
+
+| Project | Stack |
+| --- | --- |
+| **ABAS — KasetFair Business Planning Platform**<br>AI-powered web platform for KasetFair 2026 vendors, with n8n workflows running alongside FastAPI as the backend: calculates ingredient costs, estimates revenue and expenses, and generates 7P marketing reports. | Next.js 16, FastAPI, PostgreSQL, OpenAI, n8n, Apify, Docker |
+| **AI City Simulation — Multi-agent LLM City**<br>50 LLM-driven citizen agents react to mayor policies in real time, with an LLM gateway that rotates API keys and manages quota, and a rule-based fallback. 240+ tests. | Next.js 16, FastAPI, socket.io, PostgreSQL, Groq, Docker |
+| **kuberLaunch — Internal Developer Platform**<br>Generates a Dockerfile, Helm chart, GitHub Actions CI, ArgoCD GitOps, Grafana monitoring and Vault secrets from a single form. | Go, Helm, ArgoCD, GitHub Actions, Grafana, Vault |
+| **archGuard — Engineering Policy Linter**<br>"ESLint for engineering policies": a Go CLI that enforces naming conventions, required files, OpenAPI specs and secret detection, with pre-commit hooks and SARIF output for GitHub code scanning. | Go, CLI, SARIF, GitHub Code Scanning |
 
 ---
 
@@ -58,7 +69,3 @@ jakkaphan.si.dev@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in
 
 - **1st Place** — KU Hackathon, Kasetsart University
 - **Startup Thailand League 2026** — Regional Round
-
----
-
-
