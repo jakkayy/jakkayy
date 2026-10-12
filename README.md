@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-jakkayy.vercel.app)
 
 - Computer Engineering student @ **Kasetsart University**, Bangkok (2024 – 2028)
-- Software Engineer (Full-Stack & AI) @ **AXIS Solution** — building AI marketing web platforms that solve business problems, mainly on the backend, plus automation workflows, RAG pipelines, and AI chatbots
+- Software Engineer @ **AXIS Solution** — building AI marketing web platforms that solve business problems, mainly on the backend, plus automation workflows, RAG pipelines, and AI chatbots
 - Backend Developer @ **Kasetsart University** — built Go backend services for a mobile app and CMS, a token-exchange proxy for an API gateway, and integrated the gateway with the backend to serve internal data
 
 ---
