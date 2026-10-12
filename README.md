@@ -6,9 +6,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakkaphan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-jakkayy.vercel.app)
 
-- Computer Engineering student @ **Kasetsart University**, Bangkok (2024 – 2028)
-- Software Engineer @ **AXIS Solution** — building AI marketing web platforms that solve business problems, mainly on the backend, plus automation workflows, RAG pipelines, and AI chatbots
-- Backend Developer @ **Kasetsart University** — built Go backend services for a mobile app and CMS, a token-exchange proxy for an API gateway, and integrated the gateway with the backend to serve internal data
+- **Computer Engineering Student @ Kasetsart University**  
+  Bangkok · 2024 – 2028
+- **Software Engineer @ AXIS Solution**  
+  Building AI marketing web platforms that solve business problems, mainly on the backend, plus automation workflows, RAG pipelines, and AI chatbots
+- **Backend Developer @ Kasetsart University**  
+  Built Go backend services for a mobile app and CMS, a token-exchange proxy for an API gateway, and integrated the gateway with the backend to serve internal data
 
 ---
 
